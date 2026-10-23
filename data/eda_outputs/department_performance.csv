@@ -1,0 +1,9 @@
+Department,Patient_Count,Average_LOS,Average_Treatment_Cost,Total_Treatment_Cost,Average_Satisfaction
+Neurology,6380,8.09,127102.62,810914694,2.98
+General Medicine,6297,7.95,127768.69,804559444,3.0
+Pediatrics,6277,8.03,127687.08,801491787,3.02
+Orthopedics,6258,7.94,128128.59,801828688,2.98
+Dermatology,6240,7.97,128252.63,800296419,2.99
+Oncology,6191,8.07,129208.72,799931205,3.01
+Emergency,6182,8.07,128545.22,794666526,3.0
+Cardiology,6175,8.01,127664.67,788329325,3.0

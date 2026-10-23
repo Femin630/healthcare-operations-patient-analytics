@@ -1,0 +1,42 @@
+# Healthcare Operations & Patient Analytics
+
+## Project Overview
+An end-to-end data analytics project focused on exploring synthetic healthcare patient data to understand patient admissions, department performance, length of stay, treatment costs, readmissions, and patient satisfaction.
+
+## Tools & Technologies
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **SQL:** MySQL
+- **Excel:** KPI summaries, PivotTables, and charts
+- **Power BI:** Interactive dashboard and data visualization
+
+## Dataset
+- 50,000 patient records after data cleaning
+- 19 columns covering admissions, departments, treatment costs, insurance coverage, patient payments, readmissions, and satisfaction
+- The dataset is synthetically generated for educational and portfolio purposes and does not represent real patients.
+
+## Project Workflow
+1. Generated and explored the dataset using Python.
+2. Cleaned missing values, duplicate records, dates, and data consistency.
+3. Performed exploratory data analysis (EDA) and created analytical outputs.
+4. Used MySQL to analyze department performance, monthly admissions, treatment costs, insurance coverage, and readmissions.
+5. Created Excel KPI summaries and PivotTables.
+6. Built a Power BI dashboard to visualize key healthcare operations metrics.
+
+## Key Areas of Analysis
+- Total patient records and average patient age
+- Average length of stay
+- Treatment cost and financial coverage
+- Monthly admission trends
+- Patient count by department
+- Readmission distribution
+- Patient satisfaction by department
+
+## Project Structure
+- `data/` — Raw, cleaned, and EDA output data
+- `python/` — Dataset generation, cleaning, and analysis scripts
+- `sql/` — MySQL analysis queries
+- `excel/` — Excel summaries and analysis
+- `powerbi/` — Power BI report and dashboard screenshots
+
+## Disclaimer
+This project uses synthetic data for learning and demonstration only. Findings should not be interpreted as real-world clinical or healthcare conclusions.
